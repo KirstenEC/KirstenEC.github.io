@@ -12,6 +12,6 @@ B.A., Communications | Oglethorpe University (_December 2023_)
 
 ## Projects
 ### Visualizing LinkedIn Engagement and Growth with Tableau Public
-[Publication] (https://public.tableau.com/app/profile/kirsten.carroll/viz/LinkedInDataDashboard_17441490427640/Dashboard1)
+[Publication](https://public.tableau.com/app/profile/kirsten.carroll/viz/LinkedInDataDashboard_17441490427640/Dashboard1)
 
 In this project, I utilized Tableau Public to analyze personal LinkedIn account data performance, tracking metrics like company engagement, connection growth, and interaction. This self-driven project involved data visualization within Tableau Public to identify networking patterns that influenced professional visibility and growth.
