@@ -1,4 +1,5 @@
 # Data Analyst
+### Technical Skills: SQL, Excel, Tableau
 
 ### Education
 Communications, B.A.
