@@ -11,5 +11,7 @@ B.A., Communications | Oglethorpe University (_December 2023_)
 - Develop 30+ clear and concise user stories, gather functional and non-functional requirements for 15+ website features, and record actionable meeting notes in Confluence, supporting clear communication across a 10+ member cross-functional team
 
 ## Projects
-Cleaning Data Using SQL
--
+### Visualizing LinkedIn Engagement and Growth with Tableau Public
+[Publication] (https://public.tableau.com/app/profile/kirsten.carroll/viz/LinkedInDataDashboard_17441490427640/Dashboard1)
+
+In this project, I utilized Tableau Public to analyze personal LinkedIn account data performance, tracking metrics like company engagement, connection growth, and interaction. This self-driven project involved data visualization within Tableau Public to identify networking patterns that influenced professional visibility and growth.
